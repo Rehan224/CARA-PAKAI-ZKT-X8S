@@ -12,14 +12,16 @@
 - Tambah User Fingerprint 
   - Masuk Admin,
   - Tekan [1],
-  - Masukkan ID (Maximal 5digit) jika ID bukan 5 digit, tekan # sesudah memasukkan ID, lalu ulangi lg 1x,
+  - Masukkan ID (Maximal 5digit),
+  - Jika ID bukan 5 digit, tekan # sesudah memasukkan ID, lalu ulangi lg 1x,
   - Tekan FP 3x,
   - Nanti otomatis keluar sendiri,
 
 - Tambah User Kartu
   - Masuk Admin,
   - Tekan [1],
-  - Masukkan ID (Maximal 5digit) jika ID bukan 5 digit, tekan # sesudah memasukkan ID, lalu ulangi lg 1x,
+  - Masukkan ID (Maximal 5digit),
+  - Jika ID bukan 5 digit, tekan # sesudah memasukkan ID, lalu ulangi lg 1x,
   - Swipe card di mesin 1x,
   - Nanti otomatis keluar sendiri,
 
