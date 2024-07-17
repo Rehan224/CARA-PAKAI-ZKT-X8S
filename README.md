@@ -1,7 +1,7 @@
 # CARA-PAKAI-ZKT-X8S
-- Masuk Admin
-Tekan *#,
-Masukkan password (Default 1234),
+# - Masuk Admin
+# Tekan *#,
+# Masukkan password (Default 1234),
 Untuk keluar admin, tekan *,
 
 - Ganti Password Admin
