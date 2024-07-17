@@ -13,8 +13,9 @@
   - Masuk Admin,
   - Tekan [1],
   - Masukkan ID (Maximal 5 digit),
-  - Jika ID bukan 5 digit, tekan # sesudah memasukkan ID,
-  - Jika ID 5 digit, tidak usah tekan #,
+  - Note:
+     - Jika ID bukan 5 digit, tekan # sesudah memasukkan ID,
+     - Jika ID 5 digit, tidak usah tekan #,
   - Masukkan kembali ID nya,
   - Tekan FP 3x,
   - Nanti otomatis keluar sendiri,
@@ -23,8 +24,9 @@
   - Masuk Admin,
   - Tekan [1],
   - Masukkan ID (Maximal 5digit),
-  - Jika ID bukan 5 digit, tekan # sesudah memasukkan ID,
-  - Jika ID 5 digit, tidak usah tekan #,
+  - Note:
+     - Jika ID bukan 5 digit, tekan # sesudah memasukkan ID,
+     - Jika ID 5 digit, tidak usah tekan #,
   - Masukkan kembali ID nya,
   - Swipe card di mesin 1x,
   - Nanti otomatis keluar sendiri,
@@ -38,9 +40,9 @@
   - Tekan * jika tidak keluar
 
 - Hapus User FP & KARTU
-  - Masuk Admin
-  - Tekan [2]
-  - Masukkan ID
+  - Masuk Admin,
+  - Tekan [2],
+  - Masukkan ID,
   - Tekan #
 
 - Matikan User PIN
@@ -52,5 +54,18 @@
   - Tekan * jika tidak keluar
 
 - Hapus Semua User
+  - Masuk Admin,
   - Tekan [9][9] 
   - Kecuali PIN
+
+- HardReset (Lupa Master Code)
+  - Buka Mesin Access Control,
+  - Cabut kabel power,
+  - Pasang kembali kabel power,
+  - Bunyi beep 2x,
+  - Tekan tombol reset 3x
+
+- Arti Indikator lampu
+  - Biru  = Mode Standby
+  - Hijau = Berhasil/Sukses
+  - Merah = Gagal/Salah
