@@ -57,6 +57,15 @@
   - Masuk Admin,
   - Tekan [9][9] 
   - Kecuali PIN
+ 
+- Ubah Delay Magnetic Lock
+  - Masuk Admin,
+  - Tekan [4]
+  - Masukkan delay (1-10 detik)
+    Default: delay 5 detik
+  - Jika Delay bukan 2 digit, tekan #, sesudah memasukkan angka delay
+  - Jika berhasil, otomatis keluar,
+  - Tekan * jika tidak keluar
 
 - HardReset (Lupa Master Code)
   - Buka Mesin Access Control,
